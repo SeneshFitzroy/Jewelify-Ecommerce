@@ -30,7 +30,7 @@ Jewelify is an elegant and user-friendly e-commerce platform designed for a seam
 
 ### Backend
 - PHP for server-side processing
-- MySQL database (ecommerce.sql)
+- MySQL database (ecommerce.sql))
 
 ### Key Components
 - Responsive navigation menu
