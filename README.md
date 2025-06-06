@@ -6,7 +6,6 @@
 - **Source Code**: [OneDrive Link](https://nsbm365-my.sharepoint.com/:f:/g/personal/dsfmendis_students_nsbm_ac_lk/EnXOtIGdKodAlu5uJF1H-hkBdCIqVXMfBQYACfpFhu4OgA?e=8lhAZK)
 - **Project Proposal**: [OneDrive Link](https://nsbm365-my.sharepoint.com/:f:/g/personal/dsfmendis_students_nsbm_ac_lk/ErBs1xa6FpPjjo9mJ0qYRQB8fgF7znCcr1639GVSpyD8A?e=dzxDIX)
 - **Project Report**: [OneDrive Link](https://nsbm365-my.sharepoint.com/:f:/g/personal/dsfmendis_students_nsbm_ac_lk/El1WTqIp2x1BvypmmX7KBwoBb17kDWwGBlC7MFAujm5_CQ?e=cpcubV)
-
 ## 🌟 Overview
 Jewelify is a premier e-commerce platform tailored for jewelry lovers, offering a visually captivating frontend and a secure, dynamic backend. Customers can browse an extensive range of jewelry categories, personalize designs, and enjoy a streamlined checkout process. Administrators benefit from a robust dashboard to manage products, orders, and customer data with ease, making Jewelify a comprehensive solution for online jewelry retail.
 
